@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayGoodByeMorozov", "SayGoodByeMorozov\SayGoodByeMorozov.csproj", "{E85DDF93-009B-46C8-BC18-D74BF79CD202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayGoodbyeWorldTest", "SayGoodbyeWorldTest\SayGoodbyeWorldTest.csproj", "{AF8EFF27-1D83-4BBE-9A32-95C3D06FCE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85DDF93-009B-46C8-BC18-D74BF79CD202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85DDF93-009B-46C8-BC18-D74BF79CD202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85DDF93-009B-46C8-BC18-D74BF79CD202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85DDF93-009B-46C8-BC18-D74BF79CD202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8EFF27-1D83-4BBE-9A32-95C3D06FCE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8EFF27-1D83-4BBE-9A32-95C3D06FCE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8EFF27-1D83-4BBE-9A32-95C3D06FCE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8EFF27-1D83-4BBE-9A32-95C3D06FCE34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {412B45CA-BEE6-469A-932A-2BFF073B7A09}
+	EndGlobalSection
+EndGlobal
